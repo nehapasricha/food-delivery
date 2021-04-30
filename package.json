@@ -1,0 +1,11 @@
+{
+  "name": "food-delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "open http://localhost:8080 && node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
